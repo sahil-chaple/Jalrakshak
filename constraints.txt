@@ -1,2 +1,0 @@
-pandas==2.1.4; python_version < '3.11'
-pandas==2.2.2; python_version >= '3.11'
